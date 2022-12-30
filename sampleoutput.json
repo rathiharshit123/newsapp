@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "NDTV Sports Desk",
+            "title": "\"Itni Tabahi Hui Hai...\": Najam Sethi Having 'Sleepless Nights' Over Pakistan Cricket Board Scenario | Cricket News - NDTV Sports",
+            "description": "A 14-member committee, headed by Najam Sethi, has been appointed to run the affairs of Pakistan Cricket Board for the next four months",
+            "url": "https://sports.ndtv.com/cricket/itni-tabahi-hui-hai-najam-sethi-having-sleepless-nights-over-pakistan-cricket-board-scenario-3642305",
+            "urlToImage": "https://c.ndtvimg.com/2022-12/s3qcr6cg_najam-sethi_625x300_22_December_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+            "publishedAt": "2022-12-27T12:37:39Z",
+            "content": "The winds of change are blowing strong in Pakistan cricket. Recently, Ramiz Raja was removed from the chairman's post at the Pakistan Cricket Board (PCB) by the country's government. A 14-member comm… [+1477 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "Watch: Babar left fuming at himself after missing out on double ton in NZ Test - Hindustan Times",
+            "description": "Babar Azam was left fuming at himself after missing out on a double century during the ongoing Test match between Pakistan and New Zealand, in Karachi. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/watch-babar-azam-left-fuming-at-himself-after-missing-out-on-double-century-in-1st-new-zealand-test-101672125391346.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/12/27/1600x900/WhatsApp_1672125520292_1672125520503_1672125520503.jpeg",
+            "publishedAt": "2022-12-27T07:21:27Z",
+            "content": "Having been in poor form lately, Pakistan have been putting a stronger shift with the bat in the ongoing first Test match vs New Zealand, in Karachi. The hosts have currently reached 377 for eight in… [+1604 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "NDTV Sports Desk",
+            "title": "Watch: Marnus Labuschagne's Rocket Throw Runs Dean Elgar Out In Boxing Day Test - NDTV Sports",
+            "description": "Australia star batter Marnus Labuschagne was flying everywhere in the outfield on Day 1 of the Boxing Day Test against South Africa at the Melbourne Cricket Ground.",
+            "url": "https://sports.ndtv.com/cricket/marnus-labuschagnes-rocket-throw-runs-dean-elgar-out-in-boxing-day-test-watch-3641104",
+            "urlToImage": "https://c.ndtvimg.com/2022-12/0g6l08eo_marnus-labuschagne-twitter_625x300_27_December_22.jpg",
+            "publishedAt": "2022-12-27T05:54:47Z",
+            "content": "Australia star batter Marnus Labuschagne was flying everywhere in the outfield on Day 1 of the Boxing Day Test against South Africa at the Melbourne Cricket Ground. Labuschagne, who is currently the … [+1709 chars]"
+        }
+    ]
+}
